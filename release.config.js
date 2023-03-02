@@ -3,11 +3,12 @@ module.exports = {
     {
       name: "master",
       channel: "rc",
-      prerelease: true
+      prerelease: "rc"
     },
     {
       name: "develop",
-      channel: "beta"
+      channel: "beta",
+      prerelease: "beta"
     }
   ],
   tagFormat: `v\${version}`,
