@@ -1,0 +1,24 @@
+{
+  "name": "auto-tagging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davych/auto-tagging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davych/auto-tagging/issues"
+  },
+  "homepage": "https://github.com/davych/auto-tagging#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^20.1.1"
+  }
+}
