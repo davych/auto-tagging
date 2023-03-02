@@ -3,7 +3,6 @@ module.exports = {
     {
       name: "master",
       channel: "rc",
-      prerelease: "rc"
     },
     {
       name: "develop",
