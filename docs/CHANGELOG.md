@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/davych/auto-tagging/compare/v1.0.2...v1.1.0) (2023-03-02)
+
+
+### Features
+
+* finish ([f087196](https://github.com/davych/auto-tagging/commit/f08719614c59df56d2f8d463ccc9fb08205f01ee))
+
 # [1.1.0-beta.1](https://github.com/davych/auto-tagging/compare/v1.0.2-beta.1...v1.1.0-beta.1) (2023-03-02)
 
 
